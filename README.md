@@ -26,10 +26,12 @@ Build a ConvNet to identify sign language digits using the TF Keras Functional A
 
 ### Week 7
 Part 1: Building a very deep convolutional network, using Residual Networks (ResNets)
+
 Part 2: Using transfer learning on a pre-trained CNN to build an Alpaca/Not Alpaca classifier!
 
 ### Week 8
 Part 1: Implement the K-means algorithm and use it for image compression
+
 Part 2: Implement the anomaly detection algorithm and apply it to detect failing servers on a network
 
 ### Week 9
